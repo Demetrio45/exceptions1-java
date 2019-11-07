@@ -50,6 +50,7 @@ public class Program4 {
 			reservation.updateDates(checkIn, checkOut);
 			System.out.println("Reservation: "+ reservation);
 			}
+			
 			leia.close();
 		}
 
